@@ -1,0 +1,16 @@
+product_id,product_name,product_taxonomies
+P001,Espresso,Beverage
+P002,Americano,Beverage
+P003,Latte,Beverage
+P004,Green Tea Latte,Beverage
+P005,Thai Milk Tea,Beverage
+P006,Chocolate Frost,Beverage
+P007,Croissant,Bakery
+P008,Chocolate Cake,Bakery
+P009,Orange Cake,Bakery
+P010,Strawberry Shortcake,Bakery
+P011,Ham & Cheese Sandwich,Bakery
+P012,Tuna Salad,Food
+P013,Spaghetti Carbonara,Food
+P014,Basil Pork Rice,Food
+P015,Drinking Water,Beverage
